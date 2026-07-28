@@ -4,7 +4,7 @@ This Comprises the culmination of all courses taken in my python class for first
 ## Python Programming Fundamentals - Practice Notebooks
 This repository contains a structured collection of Jupyter Notebooks focusing on fundamental Python programming concepts. Each notebook includes practical, real-world mini-projects and exercises ranging from basic syntax to advanced string manipulation and logical evaluation.
 
-## 📁 Summary of Notebooks
+## Summary of Notebooks
 
 ### 1. `Hands_on 1_Printing Exercise`
 * **Focus**: Fundamentals of basic text output and arithmetic operations in Python.
@@ -73,7 +73,7 @@ This repository contains a structured collection of Jupyter Notebooks focusing o
   * **Bank Card Security Formatter**: Extracting specific card digits and masking sensitive middle digits (`**** **** **** 9876`).
   * **Customer Profile Processor**: Extracting city codes, customer IDs, and name segments through index slicing.
 
-## 🛠️ Prerequisites & Usage
+## Prerequisites & Usage
 
 1. **Python 3.x**
 2. **Jupyter Notebook** or **VS Code** with Python extensions.

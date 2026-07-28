@@ -66,7 +66,7 @@ This repository contains a structured collection of Jupyter Notebooks focusing o
   * **Fraud Log Analyzer**: Cleaning whitespace with `.strip()`, checking lengths, searching substrings using `.find()`, replacing keywords, and splitting strings.
   * **Movie Recommendation Engine**: Extracting first/last characters, finding word indexes, and formatting string titles with `.title()`.
 
-### 9. `Hands_on 6B_Mastering String Slicing 6B`
+### 9. `Hands_on 6B_Mastering String Slicing`
 * **Focus**: Advanced indexing, step slicing, and string reversal techniques.
 * **Key Tasks**:
   * **Employee Record Extractor**: Parsing structured IDs (`EMP-HR-2026-004512`) to extract department, year, and prefixes using slices, step jumps (`::2`, `::3`), and reverse indexing (`::-1`).
